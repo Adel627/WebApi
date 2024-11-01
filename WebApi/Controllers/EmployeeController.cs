@@ -1,16 +1,4 @@
-﻿//using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-
-//namespace WebApi.Controllers
-//{
-//    [Route("api/[controller]")]
-//    [ApiController]
-//    public class EmployeeController : ControllerBase
-//    {
-//}
-//}
-
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
 using WebApi.Models;
